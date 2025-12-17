@@ -7,6 +7,7 @@ const (
  	french = "French"
  	norwegian = "Norwegian"
 
+
  	englishHelloPrefix = "Hello, "
  	spanishHelloPrefix = "Hola, "
  	frenchHelloPrefix = "Bonjour, "
